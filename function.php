@@ -100,11 +100,11 @@
     //     echo 'saya anonymous function';
     // });
 
-    $panggil = function($text){
+    $manggil = function($text){
         echo $text;
     };
 
-    berteriak($panggil);
+    berteriak($manggil);
 
     ?>
 </body>
